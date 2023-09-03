@@ -16,11 +16,11 @@ const links = [
     icon: `<i class="fa-brands fa-discord text-2xl"></i>`,
   },
   {
-    label: "Music-Party",
-    url: "https://music.bdelabete.fr/",
+    label: "Les choses à faire à Elbeuf",
+    url: "https://www.google.com/maps/d/u/0/edit?mid=1LTF2Sa8suxSsMEBLGrj2r9tHTKXgMyw&usp=sharing",
     description:
-      "Venez sur ce site pour ajouter vos musiques préférées, et participer à la playlist de la prochaine soirée !",
-    icon: `<i class="fa-solid fa-music text-2xl"></i>`,
+      "Retrouve sur cette carte toutes les choses à faire à Elbeuf, que ce soit pour manger, pour se divertir, faire du sport, etc.",
+    icon: `<i class="fa-solid fa-map-pin"></i>`,
   },
   {
     label: "Le site de l'université",
