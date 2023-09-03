@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+Disallow: /images/
+Sitemap: https://bdelabete.fr/sitemap.xml

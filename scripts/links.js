@@ -23,6 +23,13 @@ const links = [
     icon: `<i class="fa-solid fa-map-pin"></i>`,
   },
   {
+    label: "La plateform Universitice",
+    url: "https://universitice.univ-rouen.fr/",
+    description:
+      "Universitice, le site où les profs mettent les cours et certains exercices.",
+      icon: `<i class="fa-solid fa-briefcase"></i>`
+  },
+  {
     label: "Le site de l'université",
     url: "https://www.univ-rouen.fr/",
     description:
@@ -33,9 +40,9 @@ const links = [
     label: "L'Espace Numérique de Travail",
     url: "https://ent.univ-rouen.fr/",
     description:
-      "L'ENT, ce site super utiles pour les cours, les notes, les emplois du temps (il parait).",
+      "L'ENT, ce site super utile pour les notes, les emplois du temps et plein d'autres trucs (il parait).",
     icon: `<i class="fa-solid fa-laptop text-2xl"></i>`,
-  },
+  }, 
 ];
 
 const socialLinks = links.map((link, i) => {
